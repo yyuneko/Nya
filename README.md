@@ -1,4 +1,5 @@
 # nya
+后台管理 https://github.com/vikkiking/admin.git
 
 ## Project setup
 ```
@@ -17,5 +18,3 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-"# Nya" 
-"# Nya" 
